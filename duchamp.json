@@ -1,0 +1,16 @@
+[
+  {
+    "datetime": 1,
+    "version": "17",
+    "files": [
+      {
+        "filename": "Shinkai-Project_duchamp-dummy.zip",
+        "os_patch_level": "2026-10-01",
+        "os_sdk_level": 37,
+        "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+        "size": 1,
+        "url": "https://example.com/Shinkai-Project_duchamp-dummy.zip"
+      }
+    ]
+  }
+]
