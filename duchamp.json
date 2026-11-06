@@ -1,15 +1,15 @@
 [
   {
-    "datetime": 1,
+    "datetime": 1793929921,
     "version": "17",
     "files": [
       {
-        "filename": "Shinkai-Project_duchamp-dummy.zip",
+        "filename": "Shinkai-Project_duchamp-heptakaideka-20261106-0152.zip",
         "os_patch_level": "2026-10-01",
         "os_sdk_level": 37,
-        "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
-        "size": 1,
-        "url": "https://example.com/Shinkai-Project_duchamp-dummy.zip"
+        "sha256": "68672bc3d90a5f12de71b28126614c7c8b7abcff12c91295a499d5df84da1338",
+        "size": 3172306656,
+        "url": "https://sourceforge.net/projects/shinkai-duchamp/files/heptakaideka/Shinkai-Project_duchamp-heptakaideka-20261106-0152.zip/download"
       }
     ]
   }

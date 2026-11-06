@@ -1,3 +1,6 @@
-# Shinkai for duchamp
+--- 11/06/26 ---
 
-Placeholder changelog.
+- Fixed bypass charging
+- Fixed camera issues
+
+* SafetyNet and Strong integrity are not working yet.
